@@ -1,4 +1,7 @@
+
 ## Hello 🙋
+
+  
 <table>
   
 <tr><td>
@@ -11,6 +14,25 @@
 <p>&emsp;&emsp;想要透過程式實現一些自動化流程，讓人類不要這麼辛苦使用勞力。
 <p>&emsp;&emsp;我們正在讓這個世界變得更加美好，透過Code的使用建造更好的社會，讓大家知道人生是美好的。
 <p>&emsp;&emsp;<strong>We are using code to make the world a better place, build a better society, and show everyone how wonderful life is.</strong></p>
+  </div>
+
+<div align="center">
+
+ 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+
+  <div>&nbsp;</div>
+
+
+<!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="\https://www.instagram.com/mr.w_1022/?hl=zh-tw"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=WayneLY-Chen&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -32,6 +54,8 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WayneLY-Chen&theme=radical">
 </p>
 
+![Metrics](/github-metrics.svg)
+
 ## 🔗 Links
 - ✏️ [Codepen](https://codepen.io/wayne1022-c)
 - 📫 [G-Mail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJfqchVCtlXszrxJmZqQkbDsHJZXJlsjtqNkFPNPLHfGDmsgcQgppkCjPQllWWJzMBpwKwL)
@@ -51,4 +75,14 @@
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghao221&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=WayneLY-Chen)
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=WayneLY-Chen&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WayneLY-Chen&theme=xcode" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=WayneLY-Chen&theme=tokyo-night" />
+      </picture>
+  </tr>
+</table>
