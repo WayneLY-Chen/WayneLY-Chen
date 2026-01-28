@@ -31,8 +31,8 @@
 
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="\https://www.instagram.com/mr.w_1022/?hl=zh-tw"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=WayneLY-Chen&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <a href="\https://www.instagram.com/mr.w_1022/?hl=zh-tw"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Follow"" /></a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=WayneLY-Chen&label=Views&color=orange&style=flat" alt="訪問量統計" />&emsp;
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
