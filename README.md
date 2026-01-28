@@ -14,16 +14,39 @@
 <p>&emsp;&emsp;想要透過程式實現一些自動化流程，讓人類不要這麼辛苦使用勞力。
 <p>&emsp;&emsp;我們正在讓這個世界變得更加美好，透過Code的使用建造更好的社會，讓大家知道人生是美好的。
 <p>&emsp;&emsp;<strong>We are using code to make the world a better place, build a better society, and show everyone how wonderful life is.</strong></p>
-  </div>
+
+<div>&nbsp;</div>
+
+<div align="center">
+  
+</td></tr>
+
+<tr><td>
+
+## 🏢 Work Experience
+
+<img align="right" width="130" src="https://cdn.simpleicons.org/asus/00539B" />
+
+- [ASUS 台灣](https://www.asus.com/tw/)📌 2024-06 —— 2025-06
+
+  - 工作崗位：系統品質軟體部
+  - 工作內容：參與相容性測試
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+  
+</td></tr>
+
+</table>
 
 <div align="center">
 
- 
-  <picture>
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+</picture>
 
 
   <div>&nbsp;</div>
