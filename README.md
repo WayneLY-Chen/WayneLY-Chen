@@ -75,7 +75,7 @@
 </p>
 
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghao221&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<img src = "https://github-immortality.vercel.app/api?username=WayneLY-Chen">
 </p>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
