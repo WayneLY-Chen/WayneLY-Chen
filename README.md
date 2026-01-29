@@ -110,7 +110,8 @@
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WayneLY-Chen&theme=xcode" />
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=WayneLY-Chen&theme=tokyo-night" />
       </picture>
+       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+    </td>
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
