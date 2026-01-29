@@ -32,7 +32,7 @@
   - 工作崗位：系統品質軟體部
   - 工作內容：參與相容性測試
 
-  <!-- for beauty 留个空行好看点 -->
+  <!-- for beauty -->
   <div>&nbsp;</div>
 
   
@@ -52,17 +52,17 @@
   <div>&nbsp;</div>
 
 
-<!-- profile logo 个人资料徽标 -->
+<!-- profile logo -->
   <div>
     <a href="https://www.instagram.com/mr.w_1022/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Follow" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=WayneLY-Chen&label=Views&color=orange&style=flat" alt="訪問量統計" />&emsp;
   </div>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<!-- Snake Code Contribution Map -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
@@ -101,7 +101,7 @@
 <img src = "https://github-immortality.vercel.app/api?username=WayneLY-Chen">
 </p>
 
-<!-- GitHub Activity Graph GitHub 活动图 -->
+<!-- GitHub Activity Graph GitHub -->
 <table>
   <tr>
     <td>
