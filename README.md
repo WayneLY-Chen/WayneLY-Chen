@@ -113,8 +113,8 @@
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WayneLY-Chen&theme=xcode" />
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=WayneLY-Chen&theme=tokyo-night" />
       </picture>
-       <img src="https://github.com/user-attachments/assets/0ae7d371-6614-44d2-87d7-87c05ae38584" width="100%">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+    <img src="https://github.com/user-attachments/assets/0ae7d371-6614-44d2-87d7-87c05ae38584" width="100%">
     </td>
   </tr>
 </table>
-
