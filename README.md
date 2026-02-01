@@ -75,8 +75,11 @@
 ## 📊 GitHub 數據統計
  
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=WayneLY-Chen&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WayneLY-Chen&theme=radical">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneLY-Chen&show_icons=true&theme=tokyonight&line_height=27)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WayneLY-Chen&theme=tokyonight)
+  
 </p>
 
 ![Metrics](/github-metrics.svg)
