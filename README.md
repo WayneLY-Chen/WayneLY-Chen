@@ -65,9 +65,9 @@
 
 <!-- Snake Code Contribution Map -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake-dark.svg?v=RGB">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake.svg?v=RGB">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake.svg?v=RGB">
 </picture>
 </div>
 
