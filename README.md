@@ -1,89 +1,127 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38bdf8&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Wayne+Chen;Building+Better+Society;Live+for+Create" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there+👋" alt="Typing SVG" />
 </h1>
 
+<!-- 新增：GitHub 獎盃，放在標題下方非常有專業感 -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WayneLY-Chen&theme=tokyonight&no-frame=true&column=7" alt="github trophy" />
 </p>
 
----
+<table>
+  
+<tr><td>
 
-### 👨‍💻 About Me
+### ✨ About Me
 
+<img align="right" width="88" src="https://yt3.ggpht.com/805Wg6kFpCuqb5co4Jm7oT4e6b9PyOfnNN1E9tNeo8WZF80O5QvxrQPf_q7_PGLqS1Pfk2WaZSA=s88-c-k-c0x00ffffff-no-rj" />
+
+<p>&emsp;&emsp;嗨，我是Wayne，熱愛健身、旅行、編程。
+<p>&emsp;&emsp;想要透過程式實現一些自動化流程，讓人類不要這麼辛苦使用勞力。
+<p>&emsp;&emsp;我們正在讓這個世界變得更加美好，透過Code的使用建造更好的社會，讓大家知道人生是美好的。
+<p>&emsp;&emsp;<strong>We are using code to make the world a better place, build a better society, and show everyone how wonderful life is.</strong></p>
+
+<div>&nbsp;</div>
+
+<div align="center">
+  
+</td></tr>
+
+<tr><td>
+
+## 🏢 Work Experience
+
+<img align="right" width="130" src="https://cdn.simpleicons.org/asus/00539B" />
+
+- [ASUS 台灣](https://www.asus.com/tw/)📌 2024-06 —— 2025-06
+
+  - 工作崗位：系統品質軟體部
+  - 工作內容：參與相容性測試
+
+  <!-- for beauty -->
+  <div>&nbsp;</div>
+
+  
+</td></tr>
+
+</table>
+
+<div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ4YXVxYmpuamR4OG9zaHk4eDU1bnA3NHA5NHMyOHJiaTh0ZmJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ4YXVxYmpuamR4OG9zaHk4eDU1bnA3NHA5NHMyOHJiaTh0ZmJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ4YXVxYmpuamR4OG9zaHk4eDU1bnA3NHA5NHMyOHJiaTh0ZmJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" width="65%" />
+</picture>
+
+
+  <div>&nbsp;</div>
+
+
+<!-- profile logo -->
+  <div>
+    <a href="https://www.instagram.com/mr.w_1022/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Follow" /></a>&emsp;
+    <img src="https://komarev.com/ghpvc/?username=WayneLY-Chen&label=Views&color=orange&style=flat" alt="訪問量統計" />&emsp;
+  </div>
+
+<!-- Snake Code Contribution Map -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+</td></tr>
+
+
+
+</table>
+
+## 📊 GitHub 數據統計
+ 
+<p align = "center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WayneLY-Chen&show_icons=true&theme=tokyonight&line_height=27)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WayneLY-Chen&theme=tokyonight)
+  
+</p>
+
+![Metrics](/github-metrics.svg)
+
+## 🔗 Links
+- 🌐 [My Website](https://my-portfolio-waynely-chens-projects.vercel.app)
+- 🧮 [Money-calculator](https://money-calculator-y2le.onrender.com/)
+- ✏️ [CodePen](https://codepen.io/WayneLY-Chen) ![CodePen Icon](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white) 👈 **這裡補出了 Logo！**
+- 📫 [G-Mail](mailto:qweasd226410@gmail.com)
+
+
+<p align="center">
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+<p align = "center">
+<img src = "https://github-immortality.vercel.app/api?username=WayneLY-Chen">
+</p>
+
+<!-- GitHub Activity Graph GitHub -->
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <p>嗨，我是 <strong>Wayne</strong>，熱愛健身、旅行與編程。🚀</p>
-      <p>我致力於透過程式實現自動化流程，將人類從重複勞動中解放。我們正透過 Code 讓世界變得更美好，建造更優質的社會，並向大眾展示人生的美好價值。</p>
-      <p align="left">
-        <strong>"We use code to make the world a better place and show how wonderful life is."</strong>
-      </p>
-    </td>
-    <td width="40%" valign="top">
-      <img align="right" width="120" style="border-radius: 20px" src="https://yt3.ggpht.com/805Wg6kFpCuqb5co4Jm7oT4e6b9PyOfnNN1E9tNeo8WZF80O5QvxrQPf_q7_PGLqS1Pfk2WaZSA=s88-c-k-c0x00ffffff-no-rj" />
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=WayneLY-Chen&theme=tokyo-night" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WayneLY-Chen&theme=xcode" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=WayneLY-Chen&theme=tokyo-night" />
+      </picture>
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+    <img src="https://github.com/user-attachments/assets/0ae7d371-6614-44d2-87d7-87c05ae38584" width="100%">
     </td>
   </tr>
 </table>
-
----
-
-### 🏢 Work Experience
-
-<img align="right" width="100" src="https://cdn.simpleicons.org/asus/00539B" />
-
-- **[ASUS 台灣](https://www.asus.com/tw/)** 📌 2024.06 — 2025.06
-  - **崗位**：系統品質軟體部 (SQA)
-  - **核心**：負責系統相容性測試與軟體品質把關。
-
----
-
-### 🛠️ Technology Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WayneLY-Chen&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WayneLY-Chen&theme=tokyonight&hide_border=true&layout=compact" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WayneLY-Chen&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
----
-
-### 🐍 Contribution Map
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake.svg" width="80%">
-  </picture>
-</p>
-
----
-
-### 🔗 Connect with me
-
-<p align="center">
-  <a href="https://www.instagram.com/mr.w_1022/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://codepen.io/WayneLY-Chen"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-  <a href="https://my-portfolio-waynely-chens-projects.vercel.app"><img src="https://img.shields.io/badge/Website-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:qweasd226410@gmail.com"><img src="https://img.shields.io/badge/G--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WayneLY-Chen&label=Profile%20Views&color=blue&style=flat-square" />
-</p>
