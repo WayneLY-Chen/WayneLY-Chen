@@ -11,7 +11,7 @@ on:
   # 當 main 分支有 push 時執行
   push:
     branches:
-    - master
+    - main
 
 jobs:
   generate:
