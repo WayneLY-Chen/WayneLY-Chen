@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+there+👋" alt="Typing SVG" />
 </h1>
 
-<!-- 新增：GitHub 獎盃，放在標題下方非常有專業感 -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=WayneLY-Chen&theme=tokyonight&no-frame=true&column=7" alt="github trophy" />
 </p>
@@ -37,7 +36,7 @@
   - 工作崗位：系統品質軟體部
   - 工作內容：參與相容性測試
 
-  <!-- for beauty -->
+
   <div>&nbsp;</div>
 
   
@@ -57,13 +56,12 @@
   <div>&nbsp;</div>
 
 
-<!-- profile logo -->
   <div>
     <a href="https://www.instagram.com/mr.w_1022/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Follow" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=WayneLY-Chen&label=Views&color=orange&style=flat" alt="訪問量統計" />&emsp;
   </div>
 
-<!-- Snake Code Contribution Map -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WayneLY-Chen/WayneLY-Chen/output/github-contribution-grid-snake.svg">
@@ -92,7 +90,7 @@
 ## 🔗 Links
 - 🌐 [My Website](https://my-portfolio-waynely-chens-projects.vercel.app)
 - 🧮 [Money-calculator](https://money-calculator-y2le.onrender.com/)
-- ✏️ [CodePen](https://codepen.io/WayneLY-Chen) ![CodePen Icon](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white) 👈 **這裡補出了 Logo！**
+- ✏️ [CodePen](https://codepen.io/WayneLY-Chen)
 - 📫 [G-Mail](mailto:qweasd226410@gmail.com)
 
 
@@ -111,7 +109,7 @@
 <img src = "https://github-immortality.vercel.app/api?username=WayneLY-Chen">
 </p>
 
-<!-- GitHub Activity Graph GitHub -->
+
 <table>
   <tr>
     <td>
