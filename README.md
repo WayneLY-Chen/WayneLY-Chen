@@ -88,7 +88,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WayneLY-Chen&theme=tokyonight&hide_border=true" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WayneLY-Chen&theme=tokyonight&hide_border=true"/>
 </p>
 
 ## 🔗 Links
