@@ -88,13 +88,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WayneLY-Chen&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WayneLY-Chen&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 ## 🔗 Links
 - 🌐 [My Website](https://my-portfolio-waynely-chens-projects.vercel.app)
 - 🧮 [Money-calculator](https://money-calculator-y2le.onrender.com/)
-- ✏️ [CodePen](https://codepen.io/WayneLY-Chen) ![CodePen Icon](https://img.shields.io/badge/-000000?style=flat-square&logo=codepen&logoColor=white)
+- ✏️ [CodePen](https://codepen.io/WayneLY-Chen)
 - 📫 [G-Mail](mailto:qweasd226410@gmail.com)
 
 
