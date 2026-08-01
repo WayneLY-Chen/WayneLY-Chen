@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/WayneLY-Chen/WayneLY-Chen/blob/main/wayne-editorial-banner.png" width="100%" alt="Wayne Chen — Code, Travel, Strength" />
+  <img src="./wayne-editorial-banner.png" width="100%" alt="Wayne Chen — Code, Travel, Strength" />
 </p>
 
 <h1 align="center">
@@ -31,7 +31,7 @@
 <h2 align="center">01 · Profile</h2>
 <p align="center"><sub>DEVELOPER BY LOGIC · CREATOR BY INSTINCT · EXPLORER BY NATURE</sub></p>
 
-<table>
+<table align="center" width="80%">
   <tr>
     <td valign="middle">
       <h3>✨ About Me</h3>
@@ -50,7 +50,7 @@
 <h2 align="center">02 · Journey</h2>
 <p align="center"><sub>EXPERIENCE · QUALITY · GROWTH</sub></p>
 
-<table>
+<table align="center" width="80%">
   <tr>
     <td valign="middle">
       <h3>🏢 Work Experience</h3>
@@ -75,7 +75,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ4YXVxYmpuamR4OG9zaHk4eDU1bnA3NHA5NHMyOHJiaTh0ZmJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ4YXVxYmpuamR4OG9zaHk4eDU1bnA3NHA5NHMyOHJiaTh0ZmJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" />
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ4YXVxYmpuamR4OG9zaHk4eDU1bnA3NHA5NHMyOHJiaTh0ZmJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" width="65%" alt="Animated view of Earth from the moon" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ4YXVxYmpuamR4OG9zaHk4eDU1bnA3NHA5NHMyOHJiaTh0ZmJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" width="80%" alt="Animated view of Earth from the moon" />
   </picture>
 </p>
 
@@ -84,7 +84,7 @@
 <h2 align="center">04 · Featured Projects</h2>
 <p align="center"><sub>SELECTED WORK · BUILT WITH PURPOSE</sub></p>
 
-<table>
+<table align="center">
   <tr>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/WayneLY-Chen/Money-calculator">Money Calculator</a></h3>
