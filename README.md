@@ -31,15 +31,15 @@
 <h2 align="center">01 · Profile</h2>
 <p align="center"><sub>DEVELOPER BY LOGIC · CREATOR BY INSTINCT · EXPLORER BY NATURE</sub></p>
 
-<table align="center" width="80%">
+<table align="center">
   <tr>
-    <td valign="middle">
+    <td width="513" valign="middle">
       <h3>✨ About Me</h3>
       <p>嗨，我是 <strong>Wayne</strong>，熱愛健身、旅行與程式開發。</p>
       <p>我希望透過軟體與自動化流程減少重複勞動，把想法變成真正改善生活的工具。</p>
       <p><strong>We use code to build a better society—and to remind people how wonderful life can be.</strong></p>
     </td>
-    <td width="120" align="center" valign="middle">
+    <td width="140" align="center" valign="middle">
       <img width="88" src="https://yt3.ggpht.com/805Wg6kFpCuqb5co4Jm7oT4e6b9PyOfnNN1E9tNeo8WZF80O5QvxrQPf_q7_PGLqS1Pfk2WaZSA=s88-c-k-c0x00ffffff-no-rj" alt="Wayne's profile photo" />
     </td>
   </tr>
@@ -50,9 +50,9 @@
 <h2 align="center">02 · Journey</h2>
 <p align="center"><sub>EXPERIENCE · QUALITY · GROWTH</sub></p>
 
-<table align="center" width="80%">
+<table align="center">
   <tr>
-    <td valign="middle">
+    <td width="513" valign="middle">
       <h3>🏢 Work Experience</h3>
       <p><strong><a href="https://www.asus.com/tw/">ASUS Taiwan</a></strong> · 2024-06 — 2025-06</p>
       <ul>
@@ -60,7 +60,7 @@
         <li><strong>工作內容：</strong>參與軟體相容性測試</li>
       </ul>
     </td>
-    <td width="170" align="center" valign="middle">
+    <td width="140" align="center" valign="middle">
       <img width="130" src="https://cdn.simpleicons.org/asus/8B5E3C" alt="ASUS logo" />
     </td>
   </tr>
@@ -75,7 +75,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ4YXVxYmpuamR4OG9zaHk4eDU1bnA3NHA5NHMyOHJiaTh0ZmJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ4YXVxYmpuamR4OG9zaHk4eDU1bnA3NHA5NHMyOHJiaTh0ZmJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" />
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ4YXVxYmpuamR4OG9zaHk4eDU1bnA3NHA5NHMyOHJiaTh0ZmJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" width="80%" alt="Animated view of Earth from the moon" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZ4YXVxYmpuamR4OG9zaHk4eDU1bnA3NHA5NHMyOHJiaTh0ZmJsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif" width="706" alt="Animated view of Earth from the moon" />
   </picture>
 </p>
 
